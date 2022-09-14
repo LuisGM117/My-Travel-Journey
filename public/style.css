@@ -1,0 +1,53 @@
+* {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    background-color: #001D6E;
+
+}
+
+
+nav{
+    color: #FEB139;
+    font-size: 3rem;
+    background-color: navy;
+    padding: 20px;
+}
+
+hr {
+    height: 2px;
+    width: 85%;
+    border: none;
+    background-color: #FEB139;
+}
+
+footer{
+    padding: 20px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+span{
+    font-size: 1.5rem;
+}
+
+.post{
+    margin-top: 15px;
+    display: flex;
+    color: whitesmoke;
+    
+}
+
+.post-img{
+    margin-left: 30%;
+    width: 450px;
+}
+
+.info{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.info--title{
+    color: #FFA500;
+    font-size: 2rem;
+}
